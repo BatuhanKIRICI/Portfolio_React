@@ -20,6 +20,7 @@ const ProductList = () => {
         <Product />
         <Product />
         <Product />
+        <Product />
       </div>
     </div>
   );
